@@ -1,0 +1,17 @@
+.userMenu {
+    display: flex;
+    align-items: center;
+}
+
+.btnOut {
+    background-color: #da240c;
+    border: black;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-left: 10px;
+}

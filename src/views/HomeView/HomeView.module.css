@@ -1,0 +1,27 @@
+.textContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100hv - 50px);
+    position: relative;
+    display: inline-block;
+}
+
+.homeTitle {
+    margin-top: 130px;
+    font-weight: 500;
+    font-size: 48;
+    text-align: center;
+    padding: 0 100px;
+    color: blue;
+}
+
+.styleArrow {
+    position: sticky;
+    width: 50px;
+    height: auto;
+    top: 10%;
+    left: 20px;
+    margin-right: 179px;
+    transform: translateX(2054%);
+}
